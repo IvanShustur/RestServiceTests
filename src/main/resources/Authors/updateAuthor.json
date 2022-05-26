@@ -1,0 +1,14 @@
+{
+  "authorId": 18,
+  "authorName": {
+    "first": "Taras",
+    "second": "Shevchenko"
+  },
+  "nationality": "Ukranian",
+  "birth": {
+    "date": "1864-03-09",
+    "country": "Ukraine",
+    "city": "Moryntsi"
+  },
+  "authorDescription": "Poet and artist"
+}

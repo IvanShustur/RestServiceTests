@@ -1,0 +1,14 @@
+{
+  "authorId": 18,
+  "authorName": {
+    "first": "Rudyard",
+    "second": "Kipling"
+  },
+  "nationality": "English",
+  "birth": {
+    "date": "1865-12-30",
+    "country": "British India",
+    "city": "Bombay"
+  },
+  "authorDescription": "short-story writer, poet, and novelist"
+}
